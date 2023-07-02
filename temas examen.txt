@@ -1,0 +1,12 @@
+temas examen
+
+
+Importación de NumPy.
+Creación de arreglos de “n” dimensiones.
+Creación de arreglos con números enteros y números aleatorios.
+Redimensionamiento de arrays.
+Slicing (Recorte).
+Estadística (max,min, mean…).
+Creación de archivos a partir de un arreglo. 
+Lectura de archivos csv y txt.
+Unión y separación de Arrays.
